@@ -1,0 +1,249 @@
+{
+  "items": [
+    {
+      "Amount": "1 teaspoon",
+      "Ingredient": "Allspice",
+      "Substitute": [
+        "\u00c2\u00bd teaspoon cinnamon plus \u00e2\u0085\u009b teaspoon ground cloves"
+      ]
+    },
+    {
+      "Amount": "1\u00e2\u0080\u0093\u00c2\u00bd teaspoons",
+      "Ingredient": "Arrowroot, as thickener",
+      "Substitute": [
+        "1 tablespoon flour"
+      ]
+    },
+    {
+      "Amount": "1 teaspoon",
+      "Ingredient": "Baking powder",
+      "Substitute": [
+        "\u00c2\u00bc teaspoon baking soda plus \u00e2\u0085\u009d teaspoon cream of tartar"
+      ]
+    },
+    {
+      "Amount": "\u00c2\u00bc cup",
+      "Ingredient": "Bread crumbs, dry",
+      "Substitute": [
+        "1 slice bread"
+      ]
+    },
+    {
+      "Amount": "\u00c2\u00bd cup",
+      "Ingredient": "Bread crumbs, soft",
+      "Substitute": [
+        "1 slice bread"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Buttermilk",
+      "Substitute": [
+        "1 cup plain yogurt"
+      ]
+    },
+    {
+      "Amount": "1 ounce",
+      "Ingredient": "Chocolate, unsweetened",
+      "Substitute": [
+        "3 tablespoons cocoa plus 1 tablespoon butter or fat"
+      ]
+    },
+    {
+      "Amount": "\u00c2\u00be cup",
+      "Ingredient": "Cracker crumbs",
+      "Substitute": [
+        "1 cup dry bread crumbs"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Cream, heavy",
+      "Substitute": [
+        "\u00c2\u00be cup milk plus \u00e2\u0085\u0093 cup melted butter (this will not whip)"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Cream, light",
+      "Substitute": [
+        "\u00e2\u0085\u009e cup milk plus 3 tablespoons melted butter"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Cream, sour",
+      "Substitute": [
+        "\u00e2\u0085\u009e cup buttermilk or plain yogurt plus 3 tablespoons melted butter"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Cream, whipping",
+      "Substitute": [
+        "\u00e2\u0085\u0094 cup well-chilled evaporated milk, whipped; or 1 cup nonfat dry milk powder whipped with 1 cup ice water"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Flour, all-purpose",
+      "Substitute": [
+        "1\u00e2\u0080\u0093\u00e2\u0085\u009b cups cake flour; or \u00e2\u0085\u009d cup potato flour; or 1\u00e2\u0080\u0093\u00c2\u00bc cups rye flour or coarsely ground whole-grain flour; or 1 cup cornmeal"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Flour, cake",
+      "Substitute": [
+        "1 cup minus 2 tablespoons sifted all-purpose flour"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Flour, self-rising",
+      "Substitute": [
+        "1 cup all-purpose flour plus 1\u00e2\u0080\u0093\u00c2\u00bc teaspoons baking powder plus \u00c2\u00bc teaspoon salt"
+      ]
+    },
+    {
+      "Amount": "1 small clove",
+      "Ingredient": "Garlic",
+      "Substitute": [
+        "\u00e2\u0085\u009b teaspoon garlic powder or instant minced garlic"
+      ]
+    },
+    {
+      "Amount": "\u00c2\u00bd to 1 teaspoon",
+      "Ingredient": "Herbs, dried",
+      "Substitute": [
+        "1 tablespoon fresh herbs, minced and packed"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Honey",
+      "Substitute": [
+        "1\u00e2\u0080\u0093\u00c2\u00bc cups sugar plus \u00c2\u00bd cup liquid"
+      ]
+    },
+    {
+      "Amount": "1 teaspoon",
+      "Ingredient": "Lemon juice",
+      "Substitute": [
+        "\u00c2\u00bd teaspoon vinegar"
+      ]
+    },
+    {
+      "Amount": "1",
+      "Ingredient": "Lemon, juice and rind",
+      "Substitute": [
+        "3 tablespoons bottled lemon juice and 1 teaspoon dried grated rind"
+      ]
+    },
+    {
+      "Amount": "1 teaspoon",
+      "Ingredient": "Lemon rind, grated",
+      "Substitute": [
+        "\u00c2\u00bd teaspoon lemon extract"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Milk, skim",
+      "Substitute": [
+        "\u00e2\u0085\u0093 cup instant nonfat dry milk plus \u00c2\u00be cup water"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Milk, sour",
+      "Substitute": [
+        "1 cup minus 1 tablespoon milk plus 1 tablespoon vinegar or lemon juice. Stir and let stand 5 minutes."
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Milk, whole",
+      "Substitute": [
+        "\u00c2\u00bd cup evaporated milk plus \u00c2\u00bd cup water; or 1 cup skim milk plus 2 teaspoons melted butter"
+      ]
+    },
+    {
+      "Amount": "1 tablespoon",
+      "Ingredient": "Mustard, prepared",
+      "Substitute": [
+        "1 teaspoon dry or powdered mustard"
+      ]
+    },
+    {
+      "Amount": "1 small",
+      "Ingredient": "Onion, chopped",
+      "Substitute": [
+        "1 tablespoon instant minced onion; or 1 teaspoon onion powder; or \u00c2\u00bc cup frozen chopped onion"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Sugar, granulated",
+      "Substitute": [
+        "1 cup firmly packed brown sugar; or 1\u00e2\u0080\u0093\u00c2\u00be cups confectioners\u00e2\u0080\u0099 sugar (do not substitute in baking); or \u00c2\u00bd cup honey; or 1 cup superfine sugar; or 1\u00e2\u0080\u0093\u00c2\u00bd cups corn syrup; or \u00e2\u0085\u0094 cup maple syrup (for last two, reduce liquid in recipe by 25 percent)"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Tomatoes, canned",
+      "Substitute": [
+        "\u00c2\u00bd cup tomato sauce plus \u00c2\u00bd cup water; or 1\u00e2\u0080\u0093\u00e2\u0085\u0093 cups chopped fresh tomatoes, simmered"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Tomato juice",
+      "Substitute": [
+        "\u00c2\u00bd cup tomato sauce plus \u00c2\u00bd cup water plus dash each salt and sugar; or \u00c2\u00bc cup tomato paste plus \u00c2\u00be cup water plus salt and sugar, to taste"
+      ]
+    },
+    {
+      "Amount": "\u00c2\u00bd cup",
+      "Ingredient": "Tomato ketchup",
+      "Substitute": [
+        "\u00c2\u00bd cup tomato sauce plus 2 tablespoons sugar, 1 tablespoon vinegar, and \u00e2\u0085\u009b teaspoon ground cloves"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Tomato puree",
+      "Substitute": [
+        "\u00c2\u00bd cup tomato paste plus \u00c2\u00bd cup water"
+      ]
+    },
+    {
+      "Amount": "1 can (10\u00e2\u0080\u0093\u00c2\u00be oz.)",
+      "Ingredient": "Tomato soup",
+      "Substitute": [
+        "1 cup tomato sauce plus \u00c2\u00bc cup water"
+      ]
+    },
+    {
+      "Amount": "1-inch bean",
+      "Ingredient": "Vanilla",
+      "Substitute": [
+        "1 teaspoon vanilla extract"
+      ]
+    },
+    {
+      "Amount": "1 cake (\u00e2\u0085\u0097 oz.)",
+      "Ingredient": "Yeast",
+      "Substitute": [
+        "1 package active dry yeast"
+      ]
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Yogurt, plain",
+      "Substitute": [
+        "1 cup buttermilk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+all: build
+
+build: venv build-subdirs index.yaml
+
+build-subdirs:
+	for d in * ; do [ -d "$$d" ] && make -C "$$d" $* ; done
+
+install: ../_data/substitutions/index.yaml
+
+../_data/substitutions/index.yaml: index.yaml
+	mkdir -p ../_data/substitutions
+	cp -f index.yaml ../_data/substitutions/index.yaml
+
+index.yaml: venv
+	. ../envrc && . ./venv/bin/activate && ./concat.py */index.json > index.yaml
+
+venv:
+	virtualenv -p python3 venv
+	./venv/bin/pip install -r requirements.txt
+
+clean: clean-subdirs
+	rm -rf venv index.yaml
+
+clean-subdirs:
+	for d in * ; do [ -d "$$d" ] && make -C "$$d" clean $* ; done

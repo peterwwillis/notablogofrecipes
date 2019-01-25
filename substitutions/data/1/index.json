@@ -1,0 +1,180 @@
+{
+  "items": [
+    {
+      "Ingredient": "Bacon",
+      "Substitute": [
+        "Canadian bacon, turkey bacon, smoked turkey or lean prosciutto (Italian ham)"
+      ]
+    },
+    {
+      "Ingredient": "Bread, white",
+      "Substitute": [
+        "Whole-grain bread"
+      ]
+    },
+    {
+      "Ingredient": "Bread crumbs, dry",
+      "Substitute": [
+        "Rolled oats or crushed bran cereal"
+      ]
+    },
+    {
+      "Ingredient": "Butter, margarine, shortening or oil in baked goods",
+      "Substitute": [
+        "Applesauce or prune puree for half of the called-for butter, shortening or oil; butter spreads or shortenings specially formulated for baking that don't have trans fats",
+        "Note: To avoid dense, soggy or flat baked goods, don't use oil in place of butter or shortening. Also don't use diet, whipped or tub-style margarine in place of regular margarine."
+      ]
+    },
+    {
+      "Ingredient": "Butter, margarine, shortening or oil to prevent sticking",
+      "Substitute": [
+        "Cooking spray or nonstick pans"
+      ]
+    },
+    {
+      "Ingredient": "Cream",
+      "Substitute": [
+        "Fat-free half-and-half, evaporated skim milk"
+      ]
+    },
+    {
+      "Ingredient": "Cream cheese, full fat",
+      "Substitute": [
+        "Fat-free or low-fat cream cheese, Neufchatel, or low-fat cottage cheese pureed until smooth"
+      ]
+    },
+    {
+      "Ingredient": "Eggs",
+      "Substitute": [
+        "Two egg whites or 1/4 cup egg substitute for each whole egg"
+      ]
+    },
+    {
+      "Ingredient": "Flour, all-purpose (plain)",
+      "Substitute": [
+        "Whole-wheat flour for half of the called-for all-purpose flour in baked goods",
+        "Note: Whole-wheat pastry flour is less dense and works well in softer products like cakes and muffins."
+      ]
+    },
+    {
+      "Ingredient": "Fruit canned in heavy syrup",
+      "Substitute": [
+        "Fruit canned in its own juices or in water, or fresh fruit"
+      ]
+    },
+    {
+      "Ingredient": "Ground beef",
+      "Substitute": [
+        "Extra-lean or lean ground beef, ground chicken breast or ground turkey breast (make sure no poultry skin has been added to the product)"
+      ]
+    },
+    {
+      "Ingredient": "Lettuce, iceberg",
+      "Substitute": [
+        "Arugula, chicory, collard greens, dandelion greens, kale, mustard greens, spinach or watercress"
+      ]
+    },
+    {
+      "Ingredient": "Mayonnaise",
+      "Substitute": [
+        "Reduced-calorie mayonnaise-type salad dressing or reduced-calorie, reduced-fat mayonnaise"
+      ]
+    },
+    {
+      "Ingredient": "Meat as the main ingredient",
+      "Substitute": [
+        "Three times as many vegetables as meat on pizzas or in casseroles, soups and stews"
+      ]
+    },
+    {
+      "Ingredient": "Milk, evaporated",
+      "Substitute": [
+        "Evaporated skim milk"
+      ]
+    },
+    {
+      "Ingredient": "Milk, whole",
+      "Substitute": [
+        "Reduced-fat or fat-free milk"
+      ]
+    },
+    {
+      "Ingredient": "Oil-based marinades",
+      "Substitute": [
+        "Wine, balsamic vinegar, fruit juice or fat-free broth"
+      ]
+    },
+    {
+      "Ingredient": "Pasta, enriched (white)",
+      "Substitute": [
+        "Whole-wheat pasta"
+      ]
+    },
+    {
+      "Ingredient": "Rice, white",
+      "Substitute": [
+        "Brown rice, wild rice, bulgur wheat or pearl barley"
+      ]
+    },
+    {
+      "Ingredient": "Salad dressing",
+      "Substitute": [
+        "Fat-free or reduced-calorie dressing or flavored vinegars"
+      ]
+    },
+    {
+      "Ingredient": "Seasoning salt, such as garlic salt, celery salt or onion salt",
+      "Substitute": [
+        "Herb-only seasonings, such as garlic powder, celery seed or onion flakes, or finely chopped fresh herbs, garlic, celery or onions"
+      ]
+    },
+    {
+      "Ingredient": "Soups, creamed",
+      "Substitute": [
+        "Fat-free milk-based soups, mashed potato flakes, or pureed carrots, potatoes or tofu for thickening agents"
+      ]
+    },
+    {
+      "Ingredient": "Soups, sauces, dressings, crackers, or canned meat, fish or vegetables",
+      "Substitute": [
+        "Low-sodium or reduced-sodium and low-fat or reduced-fat versions"
+      ]
+    },
+    {
+      "Ingredient": "Sour cream, full fat",
+      "Substitute": [
+        "Fat-free or low-fat sour cream, plain fat-free or low-fat yogurt"
+      ]
+    },
+    {
+      "Ingredient": "Soy sauce",
+      "Substitute": [
+        "Sweet-and-sour sauce, hot mustard sauce or low-sodium soy sauce"
+      ]
+    },
+    {
+      "Ingredient": "Sugar",
+      "Substitute": [
+        "Half sugar in baked goods; add vanilla, nutmeg or cinnamon to intensify sweetness"
+      ]
+    },
+    {
+      "Ingredient": "Syrup",
+      "Substitute": [
+        "Pureed fruit, such as applesauce, or low-calorie, sugar-free syrup"
+      ]
+    },
+    {
+      "Ingredient": "Table salt",
+      "Substitute": [
+        "Herbs, spices, citrus juices (lemon, lime, orange), rice vinegar, salt-free seasoning mixes or herb blends"
+      ]
+    },
+    {
+      "Ingredient": "Yogurt, fruit-flavored",
+      "Substitute": [
+        "Plain low-fat yogurt with fresh fruit slices"
+      ]
+    }
+  ]
+}

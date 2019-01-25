@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "Amount": "1 teaspoon",
+      "Ingredient": "Allspice",
+      "Substitute": "1/2 teaspoon cinnamon plus 1/2 teaspoon ground cloves"
+    },
+    {
+      "Amount": "1 teaspoon",
+      "Ingredient": "Apple Pie Spice",
+      "Substitute": "1/2 teaspoon cinnamon plus 1/4 teaspoon nutmeg plus 1/8 teaspoon cardamom"
+    },
+    {
+      "Amount": "1 teaspoon",
+      "Ingredient": "Baking Powder, Double-Acting",
+      "Substitute": "1/4 teaspoon baking soda plus 5/8 teaspoon cream of tartar"
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Buttermilk",
+      "Substitute": "1 tablespoon lemon juice or vinegar plus enough regular milk to make 1 cup (allow to stand 5 minutes)"
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Chili Sauce",
+      "Substitute": "1 cup tomato sauce, 1/4 cup brown sugar, 2 tablespoons vinegar, 1/4 teaspoon cinnamon, dash of ground cloves and dash of allspice"
+    },
+    {
+      "Amount": "1 ounce",
+      "Ingredient": "Chocolate, Unsweetened",
+      "Substitute": "3 tablespoons cocoa plus 1 tablespoon butter or regular margarine or vegetable oil"
+    },
+    {
+      "Amount": "1 cup unwhipped",
+      "Ingredient": "Cream, Whipping",
+      "Substitute": "If you wish to use a commercial pre-whipped whipped cream or whipped cream substitute rather than whip your own cream, use the guideline that 1 cup UNWHIPPED whipping cream expands to 2 cups when WHIPPED. For example, if your recipe called for 1 cup of cream to make whipped cream, you could substitute 2 cups of an already whipped product."
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Flour, Cake",
+      "Substitute": "1 cup minus 2 tablespoons all-purpose flour"
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Flour, Self-Rising",
+      "Substitute": "1 cup minus 2 teaspoons all-purpose flour plus 1 1/2 teaspoons baking powder and 1/2 teaspoon salt"
+    },
+    {
+      "Amount": "1 small clove",
+      "Ingredient": "Garlic",
+      "Substitute": "1/8 teaspoon garlic powder"
+    },
+    {
+      "Amount": "1 teaspoon",
+      "Ingredient": "Lemon Zest (fresh grated lemon peel)",
+      "Substitute": "1/2 teaspoon lemon extract"
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Marshmallows, Miniature",
+      "Substitute": "10 large marshmallows"
+    },
+    {
+      "Amount": "1 teaspoon",
+      "Ingredient": "Mustard, Dry (in cooked mixtures)",
+      "Substitute": "1 tablespoon prepared mustard"
+    },
+    {
+      "Amount": "1 teaspoon",
+      "Ingredient": "Pumpkin Pie Spice",
+      "Substitute": "1/2 teaspoon cinnamon plus 1/4 ground teaspoon ginger plus 1/8 teaspoon ground allspice plus 1/8 teaspoon ground nutmeg"
+    },
+    {
+      "Amount": "any amount",
+      "Ingredient": "Rum",
+      "Substitute": "1 part rum extract plus 3 parts water. For example: for 1/4 cup rum, substitute 1 tablespoon rum extract plus 3 tablespoons water."
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Sugar, Confectioners' or Powdered",
+      "Substitute": "1 cup granulated sugar plus 1 tablespoon cornstarch; process in a food processor using the metal blade attachment until it's well blended and powdery."
+    },
+    {
+      "Amount": "1 cup",
+      "Ingredient": "Tomato Juice",
+      "Substitute": "1/2 cup tomato sauce plus 1/2 cup water"
+    },
+    {
+      "Amount": "10 3/4 ounce can",
+      "Ingredient": "Tomato Soup",
+      "Substitute": "1 cup tomato sauce plus 1/4 cup water"
+    },
+    {
+      "Amount": "Any",
+      "Ingredient": "Wine, Red",
+      "Substitute": "The same amount of grape juice or cranberry juice"
+    },
+    {
+      "Amount": "Any",
+      "Ingredient": "Wine, White",
+      "Substitute": "The same amount of apple juice or white grape juice"
+    }
+  ]
+}

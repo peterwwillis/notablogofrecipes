@@ -1,0 +1,1402 @@
+{
+  "items": [
+    {
+      "Ingredient": "acorn squash",
+      "Substitute": [
+        "butternut squash, pumpkin"
+      ]
+    },
+    {
+      "Ingredient": "allspice (1 tsp)",
+      "Substitute": [
+        "1/2 tsp ground cinnamon + 1/2 tsp ground cloves + pinch of ground nutmeg"
+      ]
+    },
+    {
+      "Ingredient": "almond butter",
+      "Substitute": [
+        "peanut butter, cashew butter"
+      ]
+    },
+    {
+      "Ingredient": "almond extract (1/2 tsp)",
+      "Substitute": [
+        "vanilla extract (3/4 tsp)"
+      ]
+    },
+    {
+      "Ingredient": "amberjack",
+      "Substitute": [
+        "mahi-mahi, grouper, tilefish, mullet"
+      ]
+    },
+    {
+      "Ingredient": "apples",
+      "Substitute": [
+        "pears or quinces"
+      ]
+    },
+    {
+      "Ingredient": "apple juice",
+      "Substitute": [
+        "apple cider, pear cider, or white grape juice"
+      ]
+    },
+    {
+      "Ingredient": "apple pie spice (1 tbsp)",
+      "Substitute": [
+        "2 tsp ground cinnamon + 1 tsp ground nutmeg + pinch ground allspice"
+      ]
+    },
+    {
+      "Ingredient": "applesauce",
+      "Substitute": [
+        "pumpkin puree or plum puree"
+      ]
+    },
+    {
+      "Ingredient": "arugula",
+      "Substitute": [
+        "watercress, baby spinach, belgian endive, escarole, radicchio"
+      ]
+    },
+    {
+      "Ingredient": "Asiago cheese",
+      "Substitute": [
+        "Parmesan cheese, Pecorino Romano cheese"
+      ]
+    },
+    {
+      "Ingredient": "asparagus",
+      "Substitute": [
+        "broccoli, canned hearts of palm, green beans"
+      ]
+    },
+    {
+      "Ingredient": "avocado",
+      "Substitute": [
+        "cooked chayote squash"
+      ]
+    },
+    {
+      "Ingredient": "bacon",
+      "Substitute": [
+        "pancetta, prosciutto, smoked sausage, ham"
+      ]
+    },
+    {
+      "Ingredient": "baking powder (1 tsp)",
+      "Substitute": [
+        "1/4 tsp baking soda + 1/4 cornstarch + 1/2 tsp cream of tartar"
+      ]
+    },
+    {
+      "Ingredient": "barbecue sauce (1 cup)",
+      "Substitute": [
+        "1 cup ketchup + 1/2 to 1 tsp liquid smoke seasoning"
+      ]
+    },
+    {
+      "Ingredient": "beer (for soups and stews)",
+      "Substitute": [
+        "chicken or beef stock, red wine, sake"
+      ]
+    },
+    {
+      "Ingredient": "belgian endive",
+      "Substitute": [
+        "radicchio, arugula, watercress"
+      ]
+    },
+    {
+      "Ingredient": "bell pepper; roasted red",
+      "Substitute": [
+        "chopped jarred pimientos"
+      ]
+    },
+    {
+      "Ingredient": "blackberries",
+      "Substitute": [
+        "loganberries, boysenberries, raspberries"
+      ]
+    },
+    {
+      "Ingredient": "blueberries",
+      "Substitute": [
+        "huckleberries, red currants, raspberries, strawberries"
+      ]
+    },
+    {
+      "Ingredient": "blue cheese",
+      "Substitute": [
+        "feta cheese"
+      ]
+    },
+    {
+      "Ingredient": "bok choy",
+      "Substitute": [
+        "napa cabbage, collard greens"
+      ]
+    },
+    {
+      "Ingredient": "boysenberries",
+      "Substitute": [
+        "blackberries, raspberries"
+      ]
+    },
+    {
+      "Ingredient": "dry bread crumbs",
+      "Substitute": [
+        "crushed tortilla chips, crushed dry stuffing mix, crushed pretzels, crushed cornflakes, crushed potato chips"
+      ]
+    },
+    {
+      "Ingredient": "broccoli",
+      "Substitute": [
+        "cauliflower"
+      ]
+    },
+    {
+      "Ingredient": "brussels sprouts",
+      "Substitute": [
+        "broccoli florets, chopped green cabbage"
+      ]
+    },
+    {
+      "Ingredient": "butter",
+      "Substitute": [
+        "1/4 cup buttermilk + 1/4 cup unsweetened applesauce"
+      ]
+    },
+    {
+      "Ingredient": "buttermilk",
+      "Substitute": [
+        "1 tbsp lemon juice or vinegar + enough milk to equal 1 cup (for baking, let stand for a few minutes before using), plain yogurt, sour cream"
+      ]
+    },
+    {
+      "Ingredient": "butternut squash",
+      "Substitute": [
+        "pumpkin, sweet potato"
+      ]
+    },
+    {
+      "Ingredient": "Canadian bacon",
+      "Substitute": [
+        "smoked ham, pancetta, bacon"
+      ]
+    },
+    {
+      "Ingredient": "caraway seeds",
+      "Substitute": [
+        "dill seeds, anise seeds"
+      ]
+    },
+    {
+      "Ingredient": "cardamom (1/2 tsp)",
+      "Substitute": [
+        "1/4 tsp ground cinnamon + 1/4 tsp ground nutmeg or cloves"
+      ]
+    },
+    {
+      "Ingredient": "carrots",
+      "Substitute": [
+        "parnsips, turnips"
+      ]
+    },
+    {
+      "Ingredient": "catfish",
+      "Substitute": [
+        "tilapia, grouper"
+      ]
+    },
+    {
+      "Ingredient": "cauliflower",
+      "Substitute": [
+        "broccoli"
+      ]
+    },
+    {
+      "Ingredient": "cayenne pepper",
+      "Substitute": [
+        "chipotle powder, hot paprika, crushed red papper flakes, chili powder"
+      ]
+    },
+    {
+      "Ingredient": "celery salt",
+      "Substitute": [
+        "Old Bay seasoning"
+      ]
+    },
+    {
+      "Ingredient": "celery seed",
+      "Substitute": [
+        "celery salt, dill seeds"
+      ]
+    },
+    {
+      "Ingredient": "chard",
+      "Substitute": [
+        "turnip greens, spinach, mustard greens"
+      ]
+    },
+    {
+      "Ingredient": "Cheddar cheese",
+      "Substitute": [
+        "Colby cheese, American cheese"
+      ]
+    },
+    {
+      "Ingredient": "chicken (ground)",
+      "Substitute": [
+        "ground turkey, veal, turkey breast"
+      ]
+    },
+    {
+      "Ingredient": "chile pepper (fresh, minced)",
+      "Substitute": [
+        "1 tsp hot pepper sauce, 1 to 3 tsp chile paste, 1/4 to 1/2 tsp ground cayenne, 3/4 tsp crushed red pepper flakes, 1 tsp paprika"
+      ]
+    },
+    {
+      "Ingredient": "chile powder (1 tsp)",
+      "Substitute": [
+        "1 tsp cayenne pepper, 1 to 2 tsp paprika, 1 tsp chili powder"
+      ]
+    },
+    {
+      "Ingredient": "chili powder (1 tsp)",
+      "Substitute": [
+        "1/2 to 1 tsp cayenne papper, 1 to 2 tsp paprika, 1 tsp chile oil"
+      ]
+    },
+    {
+      "Ingredient": "chocolate, bittersweet (1oz)",
+      "Substitute": [
+        "2 heaping tbsp unsweetened cocoa powder + 1 to 1/3 tbsp granulated sugar + 1 1/2 tsp butter, shortening, or vegetable oil"
+      ]
+    },
+    {
+      "Ingredient": "chocolate, semisweet (1 oz)",
+      "Substitute": [
+        "3 tbsp unsweetened cocoa powder + 1 to 1/2 tbsp granulated sugar + 1 1/2 tsp butter, shortening, or vegetable oil"
+      ]
+    },
+    {
+      "Ingredient": "chocolate, unsweetened (1 oz)",
+      "Substitute": [
+        "3 tbsp unsweetened cocoa powder + 1 tbsp butter, shortening, or vegetable oil"
+      ]
+    },
+    {
+      "Ingredient": "chorizo",
+      "Substitute": [
+        "andouille sausage, hot Italian sausage"
+      ]
+    },
+    {
+      "Ingredient": "cloves",
+      "Substitute": [
+        "allspice"
+      ]
+    },
+    {
+      "Ingredient": "coffee liqueur (3 tbsp)",
+      "Substitute": [
+        "3 tbsp water + 3/4 tsp insant coffee granules, 3 tbsp cognac, 3 tbsp rum"
+      ]
+    },
+    {
+      "Ingredient": "collards",
+      "Substitute": [
+        "kale, mature spinach, mustard greens, turnip greens"
+      ]
+    },
+    {
+      "Ingredient": "corned beef",
+      "Substitute": [
+        "pastrami"
+      ]
+    },
+    {
+      "Ingredient": "cornstarch (1 tbsp, for thickening)",
+      "Substitute": [
+        "flour (3 tbsp)"
+      ]
+    },
+    {
+      "Ingredient": "corn syrup, dark (1 cup)",
+      "Substitute": [
+        "honey, 1 1/4 cup packed brown sugar dissolved in 1/4 cup hot water (or liquid from recipe)"
+      ]
+    },
+    {
+      "Ingredient": "corn syrup, light (1 cup)",
+      "Substitute": [
+        "honey, 1 1/4 cups granulated sugar dissolved in 1/4 cup hot water (or liquid from recipe); molasses"
+      ]
+    },
+    {
+      "Ingredient": "cottage cheese",
+      "Substitute": [
+        "ricotta cheese"
+      ]
+    },
+    {
+      "Ingredient": "couscous",
+      "Substitute": [
+        "quinoa, brown rice"
+      ]
+    },
+    {
+      "Ingredient": "crab boil seasoning",
+      "Substitute": [
+        "Old Bay seasoning; pickling spice"
+      ]
+    },
+    {
+      "Ingredient": "cracker crumbs (1 cup)",
+      "Substitute": [
+        "1 1/4 cup dry bread crumbs, 1 1/2 cup crushed croutons or stuffing cubes, 1 cup panko"
+      ]
+    },
+    {
+      "Ingredient": "crayfish",
+      "Substitute": [
+        "shrimp, lobster, crab"
+      ]
+    },
+    {
+      "Ingredient": "cream cheese",
+      "Substitute": [
+        "ricotta cheese (for cooking)"
+      ]
+    },
+    {
+      "Ingredient": "cream, half-and-half (1 cup)",
+      "Substitute": [
+        "1 tbsp melted unsalted butter + enough whole milk to equal 1 cup, 3/4 cup whole milk + 1/4 cup heavy or whipping cream, 1 cup evaporated milk (for baking)"
+      ]
+    },
+    {
+      "Ingredient": "cream, light (1 cup)",
+      "Substitute": [
+        "3 tbsp melted unsalted butter + whole milk to equal 1 cup; 1/2 cup heavy or whipping cream plus 1/2 cup whole milk; 1/2 cup evaporated milk + 1/2 cup whole milk"
+      ]
+    },
+    {
+      "Ingredient": "cream, light whipping (1 cup)",
+      "Substitute": [
+        "3/4 cup whole milk + 1/4 cup melted unsalted butter, 1 cup heavy or whipping cream"
+      ]
+    },
+    {
+      "Ingredient": "cream of tartar (1 tsp)",
+      "Substitute": [
+        "1 tbsp distilled white vinegar or lemon juice (to add acidity to liquids)"
+      ]
+    },
+    {
+      "Ingredient": "cream, whipping (1 cup)",
+      "Substitute": [
+        "2/3 cup whole milk + 1/3 cup melted unsalted butter, 2/3 cup evaporated milk"
+      ]
+    },
+    {
+      "Ingredient": "croissants",
+      "Substitute": [
+        "crescent rolls from refrigerated dough"
+      ]
+    },
+    {
+      "Ingredient": "cucumber",
+      "Substitute": [
+        "small zucchini"
+      ]
+    },
+    {
+      "Ingredient": "cumin, ground",
+      "Substitute": [
+        "chili powder, ground coriander"
+      ]
+    },
+    {
+      "Ingredient": "dill",
+      "Substitute": [
+        "tarragon"
+      ]
+    },
+    {
+      "Ingredient": "dill seeds",
+      "Substitute": [
+        "caraway seeds, celery seeds"
+      ]
+    },
+    {
+      "Ingredient": "egg noodles",
+      "Substitute": [
+        "dried linguine, fettuccine, pappardelle"
+      ]
+    },
+    {
+      "Ingredient": "eggplant",
+      "Substitute": [
+        "portobello mushroom caps, zucchini, yellow squash"
+      ]
+    },
+    {
+      "Ingredient": "egg substitute (3 tbsp)",
+      "Substitute": [
+        "2 egg whites, 1 large egg"
+      ]
+    },
+    {
+      "Ingredient": "egg white (1 lg)",
+      "Substitute": [
+        "2 tsp meringue powder + 3 tbsp water, 1 tbsp ground flaxseed simmered in 3 tbsp water"
+      ]
+    },
+    {
+      "Ingredient": "egg",
+      "Substitute": [
+        "2 lg whole egg yolks + 1 tbsp cold water, 3 tbsp vegetable oil + 1 tbsp water (for baking), 1 tsp cornstarch + 3 tbsp additional liquid in recipe (for thickening), 3 tbsp water/milk + 3 tbsp flour + 1 1/2 tsp shortening + 1/2 tsp baking powder (for baking)"
+      ]
+    },
+    {
+      "Ingredient": "evaporated milk (1 cup)",
+      "Substitute": [
+        "2 1/4 cups whole milk, simmered until reduced to 1 cup"
+      ]
+    },
+    {
+      "Ingredient": "fish sauce",
+      "Substitute": [
+        "soy sauce, fermented tofu"
+      ]
+    },
+    {
+      "Ingredient": "flaxseed",
+      "Substitute": [
+        "wheat germ, wheat bran, oat bran, butter/margarine/oil (to replace ground flaxseed as fat)"
+      ]
+    },
+    {
+      "Ingredient": "garam marsala (1 tbsp)",
+      "Substitute": [
+        "1/2 tsp ground cumin + 1/2 tsp ground coriander + 1/2 tsp ground black pepper + 1/2 tsp ground cardamom + 1/2 tsp ground cinnamon + 1/4 tsp ground cloves (toast spices just before using)"
+      ]
+    },
+    {
+      "Ingredient": "garlic (1 clove fresh)",
+      "Substitute": [
+        "1/2 to 1 tsp minced shallots, 1/8 tsp garlic powder, 1/4 tsp granulated garlic, 1/2 tsp garlic salt (omit 1/2 tsp salt from recipe)"
+      ]
+    },
+    {
+      "Ingredient": "garlic salt (1 tsp)",
+      "Substitute": [
+        "1/4 tsp garlic powder + 3/4 tsp salt"
+      ]
+    },
+    {
+      "Ingredient": "ginger, crystallized (3 tbsp)",
+      "Substitute": [
+        "2 tsp minced fresh ginger + 1/8 to 1/2 tsp granulated sugar, 1/8 tsp ground ginger"
+      ]
+    },
+    {
+      "Ingredient": "ginger, fresh (1 tbsp)",
+      "Substitute": [
+        "1/8 tsp ground ginger (for baking)"
+      ]
+    },
+    {
+      "Ingredient": "ginger, ground (1 tsp, for baking)",
+      "Substitute": [
+        "1 tbsp grated or minced fresh ginger, 1 tsp pumpkin pie spice, 1 tsp allspice"
+      ]
+    },
+    {
+      "Ingredient": "Greek seasoning (1 tsp)",
+      "Substitute": [
+        "1 tsp dried oregano + 3/4 tsp onion powder + 3/4 tsp garlic powder + 1/2 tsp ground black pepper + 1/4 tsp dried mint + pinch of cinnamon + pinch of nutmeg"
+      ]
+    },
+    {
+      "Ingredient": "grenadine (1 tsp)",
+      "Substitute": [
+        "2 to 3 tsp pomegranate juice (reduce liquid and add sugar as necessary), 1 tsp raspberry syrup"
+      ]
+    },
+    {
+      "Ingredient": "grouper",
+      "Substitute": [
+        "striped bass, cod, catfish, red snapper"
+      ]
+    },
+    {
+      "Ingredient": "haddock",
+      "Substitute": [
+        "cod, pollock, blackfish, grouper, red snapper, sea bass"
+      ]
+    },
+    {
+      "Ingredient": "halibut",
+      "Substitute": [
+        "cod, haddock, striped bass"
+      ]
+    },
+    {
+      "Ingredient": "harissa (1 tbsp)",
+      "Substitute": [
+        "chile paste, 1 to 3 tsp hot sauce"
+      ]
+    },
+    {
+      "Ingredient": "hearts of palm",
+      "Substitute": [
+        "canned or marinated artichoke hearts, cooked asparagus"
+      ]
+    },
+    {
+      "Ingredient": "herbes de Provence (3 tbsp)",
+      "Substitute": [
+        "2 tsp dried thyme + 2 tsp dried savory + 1 tsp dried marjoram + 1 tsp dried lavender + 1/2 tsp dried rosemary + 1/2 tsp fennel seeds + 1 crushed bay leaf"
+      ]
+    },
+    {
+      "Ingredient": "honey (1 cup)",
+      "Substitute": [
+        "1 1/4 cups granulated sugar + 1/4 cup liquid called for in recipe, 1/2 cup granulated sugar + 3/4 cup maple syrup"
+      ]
+    },
+    {
+      "Ingredient": "Italian seasoning (2 tsp)",
+      "Substitute": [
+        "1 tsp dried oregano + 1/2 tsp dried basil + 1/2 tsp dried thyme"
+      ]
+    },
+    {
+      "Ingredient": "kale",
+      "Substitute": [
+        "collard greens, turnip greens, mustard greens, spinach"
+      ]
+    },
+    {
+      "Ingredient": "ketchup (1 cup)",
+      "Substitute": [
+        "1 cup tomato sauce + 1/4 cup granulated sugar + 3 tbsp apple cider vinegar + 1/2 tsp salt + pinch ground cloves, chili sauce, barbecue sauce"
+      ]
+    },
+    {
+      "Ingredient": "kielbasa",
+      "Substitute": [
+        "Cajun andouille sausage, Spanish chorizo"
+      ]
+    },
+    {
+      "Ingredient": "lamb",
+      "Substitute": [
+        "beef, pork, veal, mutton"
+      ]
+    },
+    {
+      "Ingredient": "lard (1 cup)",
+      "Substitute": [
+        "vegetable shortening, 1 cup + 3 tbsp unsalted butter, bacon fat"
+      ]
+    },
+    {
+      "Ingredient": "leeks (chopped)",
+      "Substitute": [
+        "chopped green onions or scallions, chopped shallots, chopped sweet or storage onions"
+      ]
+    },
+    {
+      "Ingredient": "lemongrass (1 stalk)",
+      "Substitute": [
+        "1 1/2 tsp lemon zest + 1/8 minced fresh ginger"
+      ]
+    },
+    {
+      "Ingredient": "lemon pepper seasoning (1 tsp)",
+      "Substitute": [
+        "1/2 tsp grated fresh lemon zest + 1/4 tsp salt + 1/8 tsp ground black pepper"
+      ]
+    },
+    {
+      "Ingredient": "lima beans",
+      "Substitute": [
+        "green peas, edamame, sugar snap peas, chickpeas, red kidney peas, black-eyed peas, cannellini beans"
+      ]
+    },
+    {
+      "Ingredient": "liquid smoke (2 drops)",
+      "Substitute": [
+        "2 slices bacon, 1 tsp canning liquid from canned chipotle peppers, 1/2 tsp paprika"
+      ]
+    },
+    {
+      "Ingredient": "lobster",
+      "Substitute": [
+        "crayfish, jumbo shrimp, crab, scallops"
+      ]
+    },
+    {
+      "Ingredient": "mackerel",
+      "Substitute": [
+        "mahi-mahi, pompano, striped bass, tuna"
+      ]
+    },
+    {
+      "Ingredient": "mahi-mahi",
+      "Substitute": [
+        "tuna, pompano, swordfish"
+      ]
+    },
+    {
+      "Ingredient": "marjoram",
+      "Substitute": [
+        "sweet basil, summer savory"
+      ]
+    },
+    {
+      "Ingredient": "marscapone cheese (1 cup)",
+      "Substitute": [
+        "1/2 cup cream cheese + 1/2 cup sour cream blended until smooth, 3/4 cup cream cheese + 1/4 cup heavy or whipping cream blended until smooth, 1/2 cup ricotta cheese + 1/2 cup heavy or whipping cream blended until smooth"
+      ]
+    },
+    {
+      "Ingredient": "mayonnaise",
+      "Substitute": [
+        "sour cream, yogurt"
+      ]
+    },
+    {
+      "Ingredient": "milk, whole",
+      "Substitute": [
+        "1 cup minus 3 tbsp fat-free milk + 3 tbsp melted butter or margarine"
+      ]
+    },
+    {
+      "Ingredient": "mint",
+      "Substitute": [
+        "basil"
+      ]
+    },
+    {
+      "Ingredient": "mozzarella cheese",
+      "Substitute": [
+        "provolone cheese, gouda cheese"
+      ]
+    },
+    {
+      "Ingredient": "mussels",
+      "Substitute": [
+        "oysters, soft-shelled or littleneck clams, scallops"
+      ]
+    },
+    {
+      "Ingredient": "mustard greens",
+      "Substitute": [
+        "turnip greens, arugula, collard greens, kale"
+      ]
+    },
+    {
+      "Ingredient": "napa cabbage",
+      "Substitute": [
+        "green or red cabbage, collard greens"
+      ]
+    },
+    {
+      "Ingredient": "nectarines",
+      "Substitute": [
+        "peaches, plums, apricots, cherries"
+      ]
+    },
+    {
+      "Ingredient": "nutmeg",
+      "Substitute": [
+        "ground mace, ground allspice, ground cinnamon, apple pie spice, pumpkin pie spice"
+      ]
+    },
+    {
+      "Ingredient": "oat flour (1 cup)",
+      "Substitute": [
+        "1 1/4 cups old-fashioned oatmeal, ground in blender"
+      ]
+    },
+    {
+      "Ingredient": "oil, vegetable (1/2 cup)",
+      "Substitute": [
+        "1/4 cup buttermilk + 1/4 cup well-drained, unsweetened applesauce or baby food prunes (for baking)"
+      ]
+    },
+    {
+      "Ingredient": "okra (2 cups)",
+      "Substitute": [
+        "green beans, asparagus, broccoli, 1 tbsp fil powder or 2 tsp cornstarch mixed with 1 tbsp cold water (for thickening, especially in gumbo)"
+      ]
+    },
+    {
+      "Ingredient": "Old Bay seasoning",
+      "Substitute": [
+        "crab boil, pickling spice"
+      ]
+    },
+    {
+      "Ingredient": "olive oil",
+      "Substitute": [
+        "corn oil, canola oil, peanut oil"
+      ]
+    },
+    {
+      "Ingredient": "onion flakes (1 tbsp)",
+      "Substitute": [
+        "3/4 to 1 tsp onion powder, 1/2 cup chopped fresh or frozen onion"
+      ]
+    },
+    {
+      "Ingredient": "onion, green (1 bunch)",
+      "Substitute": [
+        "1 bunch scallions, 3 cups chopped shallots"
+      ]
+    },
+    {
+      "Ingredient": "onion (1 cup)",
+      "Substitute": [
+        "2 tbsp dried onion flakes, 1 1/2 to 2 tsp onion powder"
+      ]
+    },
+    {
+      "Ingredient": "orange roughy",
+      "Substitute": [
+        "flounder, red snapper, tilapia"
+      ]
+    },
+    {
+      "Ingredient": "oregano",
+      "Substitute": [
+        "marjoram, thyme, fresh basil, summer savory"
+      ]
+    },
+    {
+      "Ingredient": "oysters",
+      "Substitute": [
+        "mussels, soft-shell clams, littleneck clams, scallops"
+      ]
+    },
+    {
+      "Ingredient": "oyster liquor",
+      "Substitute": [
+        "fresh or bottled clam juice"
+      ]
+    },
+    {
+      "Ingredient": "oyster sauce",
+      "Substitute": [
+        "2 tsp soy sauce or teriyaki sauce + 1 tsp canning liquid from canned oysters + pinch of sugar (if using soy sauce)"
+      ]
+    },
+    {
+      "Ingredient": "pancetta",
+      "Substitute": [
+        "Canadian bacon, bacon, prosciutto"
+      ]
+    },
+    {
+      "Ingredient": "papaya",
+      "Substitute": [
+        "mango, peaches, nectarines"
+      ]
+    },
+    {
+      "Ingredient": "paprika",
+      "Substitute": [
+        "chili powder"
+      ]
+    },
+    {
+      "Ingredient": "Parmesan cheese",
+      "Substitute": [
+        "Pecorino Romano cheese, aged Asiago cheese"
+      ]
+    },
+    {
+      "Ingredient": "peaches",
+      "Substitute": [
+        "nectarines, apricots, plums, cherries, mango"
+      ]
+    },
+    {
+      "Ingredient": "pears",
+      "Substitute": [
+        "apples, asian pears, quinces"
+      ]
+    },
+    {
+      "Ingredient": "Pecorino cheese",
+      "Substitute": [
+        "Parmesan cheese, aged Asiago cheese"
+      ]
+    },
+    {
+      "Ingredient": "pickling spice",
+      "Substitute": [
+        "crab boil, Old Bay seasoning"
+      ]
+    },
+    {
+      "Ingredient": "pineapple",
+      "Substitute": [
+        "papaya, guava, mango"
+      ]
+    },
+    {
+      "Ingredient": "pineapple juice",
+      "Substitute": [
+        "orange juice, grapefruit juice"
+      ]
+    },
+    {
+      "Ingredient": "pine nuts",
+      "Substitute": [
+        "walnuts, almonds, pecans"
+      ]
+    },
+    {
+      "Ingredient": "pomegranate juice",
+      "Substitute": [
+        "cranberry juice"
+      ]
+    },
+    {
+      "Ingredient": "pompano",
+      "Substitute": [
+        "mahi-mahi, tuna"
+      ]
+    },
+    {
+      "Ingredient": "poultry seasoning (1 tsp)",
+      "Substitute": [
+        "3/4 tsp dried thyme + 1/2 tsp crushed or rubbed sage + 1/2 tsp dried marjoram + 1/4 tsp ground black pepper"
+      ]
+    },
+    {
+      "Ingredient": "Provolone cheese",
+      "Substitute": [
+        "mozzarella cheese, Fontina cheese"
+      ]
+    },
+    {
+      "Ingredient": "puff pastry",
+      "Substitute": [
+        "phyllo dough, pie dough"
+      ]
+    },
+    {
+      "Ingredient": "pumpkin",
+      "Substitute": [
+        "butternut squash, sweet potato"
+      ]
+    },
+    {
+      "Ingredient": "pumpkin pie spice (1 tsp)",
+      "Substitute": [
+        "1/2 tsp ground cinnamon + 1/4 tsp ground nutmeg + 1/4 tsp ground ginger + 1/8 tsp groud cloves; 1 tsp apple pie spice"
+      ]
+    },
+    {
+      "Ingredient": "quail",
+      "Substitute": [
+        "young pheasant,\u00a0 cornish hen"
+      ]
+    },
+    {
+      "Ingredient": "queso fresco",
+      "Substitute": [
+        "feta cheese (rinsed to remove some salt)"
+      ]
+    },
+    {
+      "Ingredient": "quinoa",
+      "Substitute": [
+        "couscous, bulgur"
+      ]
+    },
+    {
+      "Ingredient": "radicchio",
+      "Substitute": [
+        "belgian endive, arugula, watercress"
+      ]
+    },
+    {
+      "Ingredient": "radishes",
+      "Substitute": [
+        "turnips, parsnips"
+      ]
+    },
+    {
+      "Ingredient": "raisins",
+      "Substitute": [
+        "other dried fruits like apricots, blueberries, cranberries, or cherries"
+      ]
+    },
+    {
+      "Ingredient": "raspberries",
+      "Substitute": [
+        "strawberries, blackberries"
+      ]
+    },
+    {
+      "Ingredient": "red cabbage",
+      "Substitute": [
+        "green cabbage, brussels sprouts, napa cabbage"
+      ]
+    },
+    {
+      "Ingredient": "red snapper",
+      "Substitute": [
+        "striped bass, grouper, halibut"
+      ]
+    },
+    {
+      "Ingredient": "rhubarb",
+      "Substitute": [
+        "cranberries"
+      ]
+    },
+    {
+      "Ingredient": "ricotta cheese",
+      "Substitute": [
+        "pured cottage cheese, fromage blanc, mashed firm tofu"
+      ]
+    },
+    {
+      "Ingredient": "romaine lettuce",
+      "Substitute": [
+        "iceberg lettuce, butterhead lettuce"
+      ]
+    },
+    {
+      "Ingredient": "romano cheese",
+      "Substitute": [
+        "Parmesan cheese, aged Asiago cheese"
+      ]
+    },
+    {
+      "Ingredient": "rosemary",
+      "Substitute": [
+        "summer savory, basil, oregano"
+      ]
+    },
+    {
+      "Ingredient": "rum",
+      "Substitute": [
+        "brandy, bourbon"
+      ]
+    },
+    {
+      "Ingredient": "rutabaga",
+      "Substitute": [
+        "turnips, broccoli stems"
+      ]
+    },
+    {
+      "Ingredient": "saffron (10-15 threads)",
+      "Substitute": [
+        "1/2 tsp turmeric + 1/2 tsp mild paprika"
+      ]
+    },
+    {
+      "Ingredient": "sage (1 tbsp)",
+      "Substitute": [
+        "3 to 4 tsp summer savory thyme, basil, or oregano; 1 tbsp rosemary; 1 to 2 tsp poultry seasoning"
+      ]
+    },
+    {
+      "Ingredient": "salami",
+      "Substitute": [
+        "pepperoni, spanish chorizo, prosciutto, summer sausage"
+      ]
+    },
+    {
+      "Ingredient": "salmon",
+      "Substitute": [
+        "trout, striped bass, tuna"
+      ]
+    },
+    {
+      "Ingredient": "savory (1 tbsp)",
+      "Substitute": [
+        "2 to 3 tsp chopped thyme or rosemary, 1 to 1 1/2 tsp thyme + 1 to 1/2 tsp mint, 1 to 2 tsp sage, 1 tsp herbes de Provence"
+      ]
+    },
+    {
+      "Ingredient": "scallion (1 bunch)",
+      "Substitute": [
+        "1 bunch green onions, 3 to 4 cups chopped leeks"
+      ]
+    },
+    {
+      "Ingredient": "scallops",
+      "Substitute": [
+        "mussels, clams, oysters, shrimp, lobster"
+      ]
+    },
+    {
+      "Ingredient": "sesame oil, toasted (1 tsp)",
+      "Substitute": [
+        "2 tsp crushed and toasted sesame seeds + 1 tsp peanut oil"
+      ]
+    },
+    {
+      "Ingredient": "sesame seeds",
+      "Substitute": [
+        "white or black poppy seeds; finely chopped peanuts, almonds, or cashews"
+      ]
+    },
+    {
+      "Ingredient": "shallot (1 chopped)",
+      "Substitute": [
+        "1/4 cup chopped leeks or red onions + 1/2 tsp minced garlic; 1/4 cup chopped green onions or scallions (white and light green parts only)"
+      ]
+    },
+    {
+      "Ingredient": "sherry",
+      "Substitute": [
+        "sake, port, dry white wine + pinch of sugar"
+      ]
+    },
+    {
+      "Ingredient": "shrimp",
+      "Substitute": [
+        "prawns, crab, lobster, scallops"
+      ]
+    },
+    {
+      "Ingredient": "snapper",
+      "Substitute": [
+        "striped bass, grouper, halibut"
+      ]
+    },
+    {
+      "Ingredient": "sole",
+      "Substitute": [
+        "flounder, cod, whiting"
+      ]
+    },
+    {
+      "Ingredient": "sorghum molasses",
+      "Substitute": [
+        "light or dark corn syrup, honey, pure maple syrup"
+      ]
+    },
+    {
+      "Ingredient": "sour cream",
+      "Substitute": [
+        "plain yogurt, 1/3 melted unsalted butter + 3/4 cup milk + 1 tsp lemon juice (for baking)"
+      ]
+    },
+    {
+      "Ingredient": "soy sauce (1 tbsp)",
+      "Substitute": [
+        "scant 3/4 tsp kosher salt + 1/2 tsp granulated sugar dissolved in 1 tbsp hot water, teriyaki sauce"
+      ]
+    },
+    {
+      "Ingredient": "spinach",
+      "Substitute": [
+        "beet greens, turnip greens, kale, arugula, watercess"
+      ]
+    },
+    {
+      "Ingredient": "stock, beef (1 cup)",
+      "Substitute": [
+        "1 cup boiling water + 1 beef bouillon cube, 1 cup canned beef broth, 1 cup red wine or beer (can replace up to half of beef stock in sauce and stews)"
+      ]
+    },
+    {
+      "Ingredient": "stock, chicken (1 cup)",
+      "Substitute": [
+        "1 cup boiling water + 1 chicken bouillon cube, 1 cup canned chicken broth"
+      ]
+    },
+    {
+      "Ingredient": "stock, vegetable (1 cup)",
+      "Substitute": [
+        "1 cup boiling water + 1 vegetable bouillon cube, 1 cup canned vegetable broth"
+      ]
+    },
+    {
+      "Ingredient": "strawberries",
+      "Substitute": [
+        "raspberries, blueberries"
+      ]
+    },
+    {
+      "Ingredient": "striped bass",
+      "Substitute": [
+        "grouper, red snapper"
+      ]
+    },
+    {
+      "Ingredient": "sugar, confectioner's (1 cup)",
+      "Substitute": [
+        "1/2 cup +\u00a0 1 1/2 tbsp granulated sugar + 3/4 tsp cornstarch, fine ground in blender or food processor"
+      ]
+    },
+    {
+      "Ingredient": "sugar, dark brown (1 packed cup)",
+      "Substitute": [
+        "1 cup granulated sugar + 2 to 3 tbsp molasses"
+      ]
+    },
+    {
+      "Ingredient": "sugar, light brown (1 packed cup)",
+      "Substitute": [
+        "1 cup granulated sugar + 1 to 2 tbsp molasses, 1/2 cup dark brown sugar + 1/2 cup granulated sugar"
+      ]
+    },
+    {
+      "Ingredient": "summer sausage",
+      "Substitute": [
+        "salami or other dry sausage, pepperoni, bologna"
+      ]
+    },
+    {
+      "Ingredient": "sweetened condensed milk (1 14 oz can)",
+      "Substitute": [
+        "1 cup evaporated milk + 1 1/4 cups granulated sugar, heated until sugar dissolves"
+      ]
+    },
+    {
+      "Ingredient": "sweet potato",
+      "Substitute": [
+        "pumpkin, butternut squash"
+      ]
+    },
+    {
+      "Ingredient": "Swiss cheese",
+      "Substitute": [
+        "Provolone cheese, Gruyre cheese"
+      ]
+    },
+    {
+      "Ingredient": "swordfish",
+      "Substitute": [
+        "tuna, mahi-mahi, grouper, halibut"
+      ]
+    },
+    {
+      "Ingredient": "taco seasoning (1 tbsp)",
+      "Substitute": [
+        "2 tsp pure chile powder + 1/4 tsp dried oregano + 1/4 tsp ground cumin + 1/8 tsp garlic powder + 1/8 tsp onion powder + pinch of cayenne pepper + salt to taste"
+      ]
+    },
+    {
+      "Ingredient": "tahini (1 cup)",
+      "Substitute": [
+        "3/4 cup peanut butter + 1/4 cup untoasted sesame oil"
+      ]
+    },
+    {
+      "Ingredient": "tarragon",
+      "Substitute": [
+        "dill"
+      ]
+    },
+    {
+      "Ingredient": "tequila",
+      "Substitute": [
+        "vodka, light rum"
+      ]
+    },
+    {
+      "Ingredient": "teriyaki sauce (1/2 cup)",
+      "Substitute": [
+        "1/3 cup soy sauce + 3 tbsp rice vinegar + 3 tsp sugar or honey"
+      ]
+    },
+    {
+      "Ingredient": "thyme",
+      "Substitute": [
+        "marjoram, oregano, basil, summer savory"
+      ]
+    },
+    {
+      "Ingredient": "tilapia",
+      "Substitute": [
+        "red snapper, orange roughy, sole, flounder"
+      ]
+    },
+    {
+      "Ingredient": "tomatoes (1 lb)",
+      "Substitute": [
+        "1 1/2 cups canned whole tomatoes, 3 tbsp tomato paste (to replace cooked tomatoes)"
+      ]
+    },
+    {
+      "Ingredient": "tomato juice (1 cup)",
+      "Substitute": [
+        "1/2 cup tomato pure or tomato sauce + 1/2 cup water, 1/4 cup tomato paste + 3/4 cup water"
+      ]
+    },
+    {
+      "Ingredient": "tomato paste (1 tbsp)",
+      "Substitute": [
+        "2 to 3 tbsp tomato pure or tomato sauce, boil until reduced to 1 tbsp"
+      ]
+    },
+    {
+      "Ingredient": "tomato pure (1 cup)",
+      "Substitute": [
+        "1/3 cup tomato paste + 2/3 cup water, tomato sauce"
+      ]
+    },
+    {
+      "Ingredient": "tomato sauce (1 cup)",
+      "Substitute": [
+        "1/2 cup tomato paste + 1/2 cup water, 1 cup canned stewed tomatoes, blended until smooth"
+      ]
+    },
+    {
+      "Ingredient": "trout",
+      "Substitute": [
+        "salmon, ocean perch"
+      ]
+    },
+    {
+      "Ingredient": "tuna",
+      "Substitute": [
+        "swordfish, mahi-mahi, striped bass, salmon"
+      ]
+    },
+    {
+      "Ingredient": "turmeric (1/4 to 1/2 tsp)",
+      "Substitute": [
+        "1/4 to 1/2 tsp ground ginger + 1 to 2 tsp minced fresh ginger, 5 to 7 saffron threads, 1/2 tsp curry powder"
+      ]
+    },
+    {
+      "Ingredient": "turnips",
+      "Substitute": [
+        "parsnips, rutabaga, broccoli stems"
+      ]
+    },
+    {
+      "Ingredient": "turnip greens",
+      "Substitute": [
+        "mustard greens, collards, kale, mature spinach"
+      ]
+    },
+    {
+      "Ingredient": "vanilla bean (1 8-inch pod)",
+      "Substitute": [
+        "2 to 3 tsp vanilla extract"
+      ]
+    },
+    {
+      "Ingredient": "vegetable shortening (1 cup)",
+      "Substitute": [
+        "1 cup + 2 tbsp unsalted butter (baking), 1 cup bacon fat (sauting and frying)"
+      ]
+    },
+    {
+      "Ingredient": "vermouth",
+      "Substitute": [
+        "dry sherry, dry white wine"
+      ]
+    },
+    {
+      "Ingredient": "vinegar",
+      "Substitute": [
+        "lemon juice or lime juice (for dressings, marinades, sauces, and deglazing pans)"
+      ]
+    },
+    {
+      "Ingredient": "vodka",
+      "Substitute": [
+        "gin, white rum, tequila"
+      ]
+    },
+    {
+      "Ingredient": "walnuts",
+      "Substitute": [
+        "pine nuts, pecans, almonds"
+      ]
+    },
+    {
+      "Ingredient": "wasabi (1 tbsp)",
+      "Substitute": [
+        "1 tbsp well-drained prepared horseradish, 1 tbsp mustard powder + 1 tsp water (mix, cover, and let rest for 15 minutes)"
+      ]
+    },
+    {
+      "Ingredient": "watermelon",
+      "Substitute": [
+        "honeydew melon"
+      ]
+    },
+    {
+      "Ingredient": "whipped cream (1 cup)",
+      "Substitute": [
+        "12 oz can evaporated milk, chilled overnight, mixed with 1 tbsp lemon juice, whipped until stiff, beat in 1 tsp vanilla extract and 1/4 cup confectioner's sugar"
+      ]
+    },
+    {
+      "Ingredient": "whiskey",
+      "Substitute": [
+        "cognac, brandy, or rum"
+      ]
+    },
+    {
+      "Ingredient": "whitefish",
+      "Substitute": [
+        "perch, lake trout"
+      ]
+    },
+    {
+      "Ingredient": "whiting",
+      "Substitute": [
+        "cod, flounder, ocean perch, red snapper"
+      ]
+    },
+    {
+      "Ingredient": "wine, red (1 cup)",
+      "Substitute": [
+        "3/4 cup red grape juice + 2 tbsp red wine vinegar or lemon juice + 2 tbsp water (for marinades), beef stock (for sauces and stews)"
+      ]
+    },
+    {
+      "Ingredient": "wine, white (1 cup)",
+      "Substitute": [
+        "3/4 cup white grape juice, apple juice, or apple cider + 1/4 cup white wine vinegar or lemon juice (for marinades), sherry or vermouth, sake, chicken or vegetable stock (for sauce and stews)"
+      ]
+    },
+    {
+      "Ingredient": "worcestershire sauce (1 tbsp)",
+      "Substitute": [
+        "2 tsp soy sauce + 4 drops hot pepper sauce + 1/4 lemon juice + 1/4 tsp granulated sugar"
+      ]
+    },
+    {
+      "Ingredient": "yellow squash",
+      "Substitute": [
+        "zucchini, pattypan squash"
+      ]
+    },
+    {
+      "Ingredient": "yogurt",
+      "Substitute": [
+        "sour cream, crme frache, silken tofu (blended), mayonnaise"
+      ]
+    },
+    {
+      "Ingredient": "zucchini",
+      "Substitute": [
+        "yellow squash, pattypan squash"
+      ]
+    }
+  ]
+}
